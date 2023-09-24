@@ -1,0 +1,87 @@
+ryan 		allen 		0    0 0 0    1 -1
+abigail 	baird		0    0 0 0    1 1
+gracie 		bolin 		0    0 0 0    1	1
+eli 		durepo 		0    0 0 0    1	-1
+val 		garbarino 	0    0 0 0    1 -1
+easton 		hernandez 	0    0 0 0    1 -1
+david 		john		0    0 0 0    1	1
+haneum 		kim 		0    0 0 0    0	-1
+annaliese	kimball 	0    0 0 0    1	-1
+caleb 		lai		0    0 0 0    1	-1
+matthew 	lai		0    0 0 0    1	1
+nathan 		li 		0    0 0 0    1	-1
+caleb 		liu 		0    0 0 1 -1 1 -1
+conor 		liu 		0    0 0 1 -1 1 -1
+autumn 		moog 		0    0 0 0    0 1
+esther 		na 		0    0 0 0    1	1
+henry 		olfert 		0    0 0 0    1	1
+charlotte 	perryman 	0    0 0 0    1	-1
+tommy 		perryman 	0    0 0 0    1	1
+kaleb 		runion 		0    0 0 0    0	1
+julian 		salva  		0    0 0 0    1	-1
+addison 	stamatoiu 	0    0 0 0    1	1
+ashton 		stamatoiu 	0    0 0 0    0	1
+zeke 		taylor 		0    0 0 0    0	-1
+josh 		thomas 		0    0 0 0    1	-1
+aj 		wong 		0    0 0 0    1	1
+jacob 		wong 		0    0 0 0    1 -1
+carly 		wynn 		0    0 0 0    1	1
+cadence 	baird 		0    0 0 0    1	1
+hunter 		barsell 	0    1 0 0    1 1
+laura 		greenaway 	0    1 1 1 0  1	1
+stephen 	greenaway 	1 0  1 0 0    1 1
+curtis 		hansen 		1 6  1 0 0    1	1
+grace 		sidebottom 	0    0 0 0    1	1
+andrew 		simpson 	0    1 0 0    1	1
+larry 		wagner 		1 3  1 0 0    1	1
+kitty 		wynn		1 4  1 0 0    1	1
+carissa 	bruno 		0    1 0 0    1	-1
+andrew 		carter 		1 8  1 0 0    1	1
+dean 		diblasio 	1 10 1 0 0    1	-1
+rebecca 	french 		0    1 0 0    1	1
+jason 		moog 		0    1 0 0    0	1
+natalie 	moog 		0    1 0 0    0	1
+daniel 		robertson 	1  5 1 0 0    1	-1
+bernard 	abousleiman     0    1 0 0    1 1
+alina 		brack 		0    1 0 0    1	1
+peyton 		case 		0    1 0 0    1	1
+josephina 	chang 		0    0 0 0    1	1
+arundell 	dickson 	0    0 0 0    1	-1
+claude 		durepo 		1 2  1 0 0    1 -1
+henry 		geach 		0    0 0 0    1 1
+joel 		geach 		0    1 0 0    0 -1
+neil 		johnson 	0    0 0 0    1	1
+nathan 		lai 		0    0 0 0    1	-1
+anthony 	liu 		0    1 0 0    1	1
+joy 		liu 		0    1 0 0    1 1
+nicole 		loiseau 	0    1 0 0    1	1
+gabe 		louie 		0    1 0 0    1	-1
+eli 		mayerson 	0    0 0 1  6 1	1
+daniel 		na 		0    0 1 0    1	1
+crucita 	perryman 	0    1 0 0    1 -1
+gaby 		rego 		0    1 1 0    1 1
+nate 		rego  		0    0 0 0    1	1
+tom 		sidebottom 	1 9  1 1 0    1	1
+dan 		simpson 	1 1  1 0 0    1	1
+zephan 		thomas 		0    0 0 0    1	1
+karen 		wong 		0    1 0 1 -1 1	-1
+sidney 		wong 		0    1 0 0    1 -1
+abigail 	wynn 		0    0 1 1 0  1 1
+allison 	wynn 		0    0 0 0    1 1
+taryn 		plummer		0    0 0 0    1 1
+will	 	borduin		0    0 0 0    1 1
+matt		white 		1 11 1 0 0    1 1
+josh 		runion		0    0 0 0    0 1
+raefer 		begaye 		0    1 0 0    0 1
+natalie		begaye 		0    1 0 0    0 1
+jada 		begaye 		0    0 0 0    0 0
+nathanael 	begaye   	0    0 0 0    0 -1
+peyton 		begaye 		0    0 0 0    0 0
+abby 		begaye 		0    0 0 0    0 1
+coby		begaye		0    0 0 0    0 0
+crystal 	begaye 		0    1 0 0    0 0
+n/a		n/a		0    0 0 0    0 0
+n/a 		n/a		0    0 0 0    0 0 
+n/a		n/a		0    0 0 0    0 0 
+n/a 	 	n/a 		0    0 0 0    0 0
+n/a		n/a		0    0 0 0    0 0
