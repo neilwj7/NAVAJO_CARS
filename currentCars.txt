@@ -1,0 +1,117 @@
+=====================================
+#1 napdaddy:
+current available spots: 0
+#31: stephen greenaway (driver)
+#30: laura greenaway (servant seat)
+#68: abigail wynn
+#00: ryan allen
+#26: jacob wong
+#53: nathan lai
+#48: arundell dickson
+=====================================
+=====================================
+#2 moooooo:
+current available spots: 0
+#64: dan simpson (driver)
+#57: gabe louie (servant seat)
+#54: anthony liu
+#12: caleb liu
+#11: nathan li
+#37: carissa bruno
+=====================================
+=====================================
+#3 claudeorbod:
+current available spots: 0
+#49: claude durepo (driver)
+#61: gaby rego (servant seat)
+#06: david john
+#20: julian salva
+#28: cadence baird
+#47: josephina chang
+=====================================
+=====================================
+#4 hairylarry:
+current available spots: 0
+#35: larry wagner (driver)
+#56: nicole loiseau (servant seat)
+#04: val garbarino
+#01: abigail baird
+#18: tommy perryman
+=====================================
+=====================================
+#5 tanydan:
+current available spots: 0
+#36: kitty wynn (driver)
+#60: crucita perryman (servant seat)
+#02: gracie bolin
+#52: neil johnson
+#33: grace sidebottom
+#27: carly wynn
+=====================================
+=====================================
+#6 noname:
+current available spots: 0
+#43: daniel robertson (driver)
+#29: hunter barsell (servant seat)
+#62: nate rego
+#16: henry olfert
+#05: easton hernandez
+#21: addison stamatoiu
+=====================================
+=====================================
+#7 thebeatles:
+current available spots: 0
+#32: curtis hansen (driver)
+#67: sidney wong (servant seat)
+#58: eli mayerson
+#66: karen wong
+#24: josh thomas
+#25: aj wong
+=====================================
+=====================================
+#8 neil:
+DEAD
+=====================================
+=====================================
+#9 loooooll:
+current available spots: 0
+#38: andrew carter (driver)
+#55: joy liu (servant seat)
+#13: conor liu
+#40: rebecca french
+#09: caleb lai
+#65: zephan thomas
+=====================================
+=====================================
+#10 popper:
+current available spots: 0
+#63: tom sidebottom (driver)
+#34: andrew simpson (servant seat)
+#71: will borduin
+#10: matthew lai
+#70: taryn plummer
+=====================================
+=====================================
+#11 manna:
+current available spots: 0
+#39: dean diblasio (driver)
+#46: peyton case (servant seat)
+#17: charlotte perryman
+#15: esther na
+#03: eli durepo
+#08: annaliese kimball
+=====================================
+=====================================
+#12 nopeBATGEOERGE:
+current available spots: 0
+#72: matt white (driver)
+#45: alina brack (servant seat)
+#44: bernard abousleiman
+#50: henry geach
+#59: daniel na
+#69: allison wynn
+=====================================
+=====================================
+#13 manliest:
+DEAD
+=====================================
